@@ -18,11 +18,19 @@ profiles:
       <p>Rannvägen X</p>
       <p>Göteborg, Sweden</p>
   - align: left
-    image: prof_pic_kelsey.jpg
-    content: about_kelsey.md
+    image: prof_pic_kelsey_cotton.jpg
+    content: about_kelsey_cotton.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>5463 EDIT Building</p>
-      <p>Rannvägen X</p>
+      <p>Chalmers University of Technology</p>
+      <p>Göteborg, Sweden</p>
+  - align: right
+    image: prof_pic_hugh.jpg
+    content: about_hugh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>5115 EDIT Building</p>
+      <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
 ---
