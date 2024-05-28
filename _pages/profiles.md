@@ -14,6 +14,7 @@ profiles:
   content: about_kivanc_tatar.md # Make sure name matches your file
   image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Assistant Professor</p>
       <p>5463 EDIT Building</p>
       <p>Rannvägen X</p>
       <p>Göteborg, Sweden</p>
@@ -22,6 +23,7 @@ profiles:
     content: about_kelsey_cotton.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Ph.D. Student</p>
       <p>5463 EDIT Building</p>
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
@@ -30,6 +32,7 @@ profiles:
     content: about_hugh.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Post-doctoral Fellow/p>
       <p>5115 EDIT Building</p>
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
