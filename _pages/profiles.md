@@ -22,8 +22,8 @@ profiles:
     content: about_kelsey_cotton.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>5463 EDIT Building</p>
-      <p>Chalmers University of Technology</p>
+      <p>PhD Student</p>
+      <p>EDIT Building, Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
   - align: right
     image: prof_pic_hugh.jpg
