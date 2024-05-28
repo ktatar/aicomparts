@@ -18,8 +18,8 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic_kelsey.jpg
-    content: about_kelsey.md
+    image: prof_pic_kelsey_cotton.jpg
+    content: about_kelsey_cotton.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>5463 EDIT Building</p>
