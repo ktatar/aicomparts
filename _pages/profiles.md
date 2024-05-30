@@ -28,11 +28,11 @@ profiles:
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
   - align: right
-    image: prof_pic_hugh.jpg
-    content: about_hugh.md
+    image: prof_pic_hugh_liu.jpg
+    content: about_hugh_liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Post-doctoral Fellow/p>
+      <p>Post-doctoral Fellow</p>
       <p>5115 EDIT Building</p>
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
