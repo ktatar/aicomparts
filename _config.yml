@@ -7,7 +7,8 @@ first_name: Kivanc
 middle_name:
 last_name: Tatar
 email: bucket@kivanctatar.com
-description: > researching Machine Learning and Artificial Intelligence applications in arts, music, and games. 
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  researching Machine Learning and Artificial Intelligence applications in arts, music, and games. 
 footer_text: > 
 keywords: artificial intelligence, machine learning, computational arts, academic research group, music, interactive arts, sound and music computing, digital signal processing, deep learning, digital arts # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
