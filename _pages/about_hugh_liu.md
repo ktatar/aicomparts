@@ -3,4 +3,4 @@ Dr. Hugh Xuechen Liu is an interdisciplinary researcher working on how large lan
 [Personal Page](https://home.hughliu.io/)
 
 
-#Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization #Gamification
+#Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization
