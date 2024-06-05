@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 6
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -23,14 +23,9 @@ profiles:
     content: about_kelsey_cotton.md
     image_circular: false # crops the image to make it circular
     more_info: >
-<<<<<<< HEAD
-      <p>PhD Student</p>
-      <p>EDIT Building, Chalmers University of Technology</p>
-=======
       <p>Ph.D. Student</p>
       <p>5463 EDIT Building</p>
       <p>Chalmers University of Technology</p>
->>>>>>> 9b06a8cdea50c91383073c6df7304ea1fdec24d4
       <p>Göteborg, Sweden</p>
   - align: right
     image: prof_pic_hugh_liu.jpg
