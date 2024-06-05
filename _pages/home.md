@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: AI Infused Computational Art Studio @ <a href="https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/"> Division of Data Science and AI </a>, <a href="https://www.chalmers.se"> Chalmers University of Technology </a>
+subtitle: a Research Group @ <a href="https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/"> Division of Data Science and AI </a>, <a href="https://www.chalmers.se"> Chalmers University of Technology </a>
 
 
 profile:
@@ -18,5 +18,3 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<br><br>
-This is the official website of our lab!

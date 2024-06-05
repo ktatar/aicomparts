@@ -10,9 +10,9 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-  image: prof_pic_kivanc_tatar.jpg # Make sure name matches your file
-  content: about_kivanc_tatar.md # Make sure name matches your file
-  image_circular: false # crops the image to make it circular
+    image: prof_pic_kivanc_tatar.jpg # Make sure name matches your file
+    content: about_kivanc_tatar.md # Make sure name matches your file
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Assistant Professor</p>
       <p>5463 EDIT Building</p>
@@ -33,11 +33,11 @@ profiles:
 >>>>>>> 9b06a8cdea50c91383073c6df7304ea1fdec24d4
       <p>Göteborg, Sweden</p>
   - align: right
-    image: prof_pic_hugh.jpg
-    content: about_hugh.md
+    image: prof_pic_hugh_liu.jpg
+    content: about_hugh_liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Post-doctoral Fellow/p>
+      <p>Post-doctoral Fellow</p>
       <p>5115 EDIT Building</p>
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
