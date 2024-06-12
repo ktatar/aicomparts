@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Co-Storytelling with AI
-description:  Understanding the Perception, Interaction Patterns, and Storytelling Strategy of AI Dungeon Users on Reddit
+description: Understanding the Perception, Interaction Patterns, and Storytelling Strategy of AI Dungeon Users on Reddit
 img:
 importance: 7
 category: work
 ---
+
 **Work in Progress**
 
 **Abstract**
