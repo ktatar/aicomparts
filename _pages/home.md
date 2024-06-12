@@ -5,10 +5,10 @@ permalink: /
 subtitle: a Research Group @ <a href="https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/"> Division of Data Science and AI </a>, <a href="https://www.chalmers.se"> Chalmers University of Technology </a>
 
 profile:
- # align: right
- # image: prof_pic.jpg
- # image_circular: false # crops the image to make it circular
- # more_info: >
+  # align: right
+  # image: prof_pic.jpg
+  # image_circular: false # crops the image to make it circular
+  # more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
