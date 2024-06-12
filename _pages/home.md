@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: a Research Group @ <a href="https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/"> Division of Data Science and AI </a>, <a href="https://www.chalmers.se"> Chalmers University of Technology </a>
 
