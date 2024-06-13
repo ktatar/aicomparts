@@ -3,7 +3,7 @@ layout: page
 title: Co-Storytelling with AI in Games
 description: Understanding the Perception, Interaction Patterns, and Storytelling Strategy of AI Dungeon Users on Reddit
 img:
-importance: 1
+importance: 2
 category: Games
 ---
 
