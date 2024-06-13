@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Audio Synthesis, Games, Analytical Tools]
+display_categories: [Audio Synthesis, Games, AI and Society]
 horizontal: true
 ---
 

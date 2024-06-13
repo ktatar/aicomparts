@@ -444,7 +444,8 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Footer
+// Footer 
+
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
@@ -471,6 +472,7 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  display: none;
 
   .container {
     text-align: center;
