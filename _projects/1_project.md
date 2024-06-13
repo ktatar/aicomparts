@@ -7,13 +7,18 @@ importance: 1
 category: Audio Synthesis
 related_publications: true
 authors:
-- Kıvanç Tatar: kivanctatar.com
-- Daniel Bisig
-- Philippe Pasquier
-affiliations:
-- Chalmers University of Technology, Sweden: chalmers.se
-- Zurich University for the Arts, Switzerland: zhdk.ch
-- Simon Fraser University: sfu.ca
+    - name: Kıvanç Tatar
+        url: "kivanctatar.com"
+        affiliations:
+        name: Chalmers University of Technology, Sweden
+    - name: Daniel Bisig
+        url: ""
+        affiliations:
+        name: Zurich University for the Arts, Switzerland
+    - name: Philippe Pasquier
+        url: ""
+        affiliations:
+        name: Simon Fraser University
 ---
 Latent Timbre Synthesis is a new audio synthesis method using deep learning. The synthesis method allows composers and sound designers to interpolate and extrapolate between the timbre of multiple sounds using the latent space of audio frames. The implementation includes a fully working application with a graphical user interface, called interpolate_two, which enables practitioners to generate timbres between two audio excerpts of their selection using interpolation and extrapolation in the latent space of audio frames. Our implementation is open source, and we aim to improve the accessibility of this technology by providing a guide for users with any technical background. Our study includes a qualitative analysis where nine composers evaluated the Latent Timbre Synthesis and the interpolate_two application within their practices.
 
