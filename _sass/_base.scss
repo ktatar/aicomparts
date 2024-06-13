@@ -4,6 +4,22 @@
 
 // Typography
 
+@font-face {
+  font-family: 'VG5000';
+  src:    url('../fonts/VG5000-Regular_web.eot');
+  src:    url('../fonts/VG5000-Regular_web.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/VG5000-Regular_web.woff') format('woff'),
+          url('../fonts/VG5000-Regular_web.woff2') format('woff2'),
+          url('../fonts/VG5000-Regular_web.ttf') format('truetype'),
+          url('../fonts/VG5000-Regular_web.svg#svgFontName') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family:'VG5000', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 p,
 h1,
 h2,
