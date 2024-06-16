@@ -2,7 +2,7 @@
 layout: distill
 title: Raw Audio VAE
 description: Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures
-img: assets/img/smc-2023-network.jpg
+img: assets/img/publication_preview/smc-2023-network.jpg
 importance: 1
 category: Audio Synthesis
 related_publications: true

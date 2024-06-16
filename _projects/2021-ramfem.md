@@ -2,7 +2,7 @@
 layout: distill
 title: Raw Music From Free Movements
 description: Human Body Pose Sequences into Audio Waveforms.
-img: assets/img/ramfem-crop.jpg
+img: assets/img/publication_preview/ramfem-crop.jpg
 importance: 2
 category: Audio Synthesis
 related_publications: true
