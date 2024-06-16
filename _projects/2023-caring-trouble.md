@@ -2,11 +2,11 @@
 layout: distill
 title: Caring Trouble Research Methodology
 description: A methodology for analyzing the societal impact of AI Artworks
-img: assets/img/mofcc-pick.png
+img: assets/img/publication_preview/mofcc-pick.png
 importance: 3
 category: AI and Society
 related_publications: true
-date: 2024-05-30
+date: 2023-05-30
 featured: true
 
 authors:
@@ -29,7 +29,7 @@ This framework draws from interdisciplinary theory from science and technology s
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mofcc-pick.png" title="The Caring Trouble Analytical Framework" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/publication_preview/mofcc-pick.png" title="The Caring Trouble Analytical Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
