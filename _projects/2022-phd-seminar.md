@@ -14,4 +14,4 @@ toc: false
 
 The PhD seminar in Interdisciplinary Research in Human-Computer Interaction provides a platform for sharing research ideas, questions and findings; while aiming to create an environment to foster knowledge exchange and collaborations between PhD students and researchers in Nordic countries.
 
-<embed src="../../assets/pdf/example_pdf.pdf" width="425" height="550" type="application/pdf">>
+<embed src="../../assets/pdf/2022-phd-seminar.pdf" width="425" height="550" type="application/pdf">>
