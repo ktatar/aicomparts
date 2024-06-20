@@ -41,12 +41,6 @@ Communication between the robot and the server was made using a serial connectio
 
 Stay tuned for the launch of the ACM Movement and Computing Conference 2024 Proceedings, after which the full paper will be accessible.
 
-## Resources
-
-### Architecture
-
-
-
-### Code
+## Code
 
 <i class="fa-brands fa-github"></i> <a>https://github.com/mcaravati/sp-dr</a>
