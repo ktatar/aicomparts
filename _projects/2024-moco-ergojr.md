@@ -23,7 +23,7 @@ bibliography: moco24.bib
 toc: true
 ---
 
-<div class=".l-body>
+<div class=".l-body">
 
 {% include figure.liquid loading="eager" path="assets/img/ergojr.jpg" title="ErgoJr" %}
 
