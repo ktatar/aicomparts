@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Audio Synthesis, AI and Society, Games, Events]
+display_categories: [Audio Synthesis, Movement Computing, AI and Society, Games, Events]
 horizontal: true
 ---
 
