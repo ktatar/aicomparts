@@ -36,4 +36,14 @@ profiles:
       <p>5115 EDIT Building</p>
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
+  - align: left
+    image: prof_pic_priscilla_tissot.jpg
+    content: /_profiles/about_priscilla_tissot.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Intern / M.Sc. Student</p>
+      <p>5463 EDIT Building</p>
+      <p>Chalmers University of Technology</p>
+      <p>Göteborg, Sweden</p>
+      
 ---
