@@ -30,4 +30,18 @@ This approach is informed by interdisciplinary perspectives from science and tec
 
 Informed with this interdisciplinary perspective, we propose a series of recommendations for how to *take the Body back* when engaging with AI speech and voice technologies based upon similar progress in adjacent media fields. 
 
-Stay tuned for the launch of the ACM Movement and Computing Conference 2024 Proceedings, after which the full paper will be accessible.
+The paper is now accessible via the following link: 
+<https://dl.acm.org/doi/10.1145/3658852.3659065>
+
+
+## Acknowledgements
+
+
+This work was supported by the Wallenberg AI, Autonomous Systems and Software Program – Humanities and Society (WASP-HS) funded by the Marianne and Marcus Wallenberg Foundation and the Marcus and Amalia Wallenberg Foundation. 
+<div>
+  <div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.liquid loading="eager" path="assets/img/logos/wasphs.png" title="wasp-hs logo" %}
+      </div>
+  </div>
+</div>

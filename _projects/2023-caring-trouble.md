@@ -26,6 +26,9 @@ The Caring Trouble is an interdisciplinary methodology<d-cite key="cotton_caring
 
 This framework draws from interdisciplinary theory from science and technology studies (STS), Human-Computer Interaction (HCI) and AI ethics. Specifically, our framework engages with speculative feminism; matters of fact, concern and care; and feminist data ethics. This framework--when applied to the analysis of an AI artwork or artistic application of an AI tool--is intended to assist in identifying what is *visibilised* and *invisilised* by the usage of AI. 
 
+The paper is accessible via the following link: 
+<https://aimc2023.pubpub.org/pub/zwjy371l/release/1>
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,4 +37,16 @@ This framework draws from interdisciplinary theory from science and technology s
 </div>
 <div class="caption">
     The Caring Trouble Analytical Framework.
+</div>
+
+## Acknowledgements
+
+
+This work was supported by the Wallenberg AI, Autonomous Systems and Software Program – Humanities and Society (WASP-HS) funded by the Marianne and Marcus Wallenberg Foundation and the Marcus and Amalia Wallenberg Foundation. 
+<div>
+  <div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.liquid loading="eager" path="assets/img/logos/wasphs.png" title="wasp-hs logo" %}
+      </div>
+  </div>
 </div>
