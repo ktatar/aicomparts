@@ -2,6 +2,6 @@ Dr. Hugh Xuechen Liu is an interdisciplinary researcher interested in how emergi
 
 Besides them, Hugh is also interested in other emerging technology including blockchain, augmented reality and science visualization.
 
-[Personal Page](http://hughliu.io)
+[Personal Page](https://hughxuechen.github.io/)
 
 #Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization
