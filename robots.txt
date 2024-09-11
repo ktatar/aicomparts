@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ktatar.github.io//aicomparts//sitemap.xml
+Sitemap: https://www.aicomparts.com//sitemap.xml
