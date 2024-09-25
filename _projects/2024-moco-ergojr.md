@@ -19,7 +19,7 @@ authors:
     affiliations: 
       name: Chalmers University of Technology
 
-bibliography: moco24.bib
+bibliography: moco24-2.bib
 toc: true
 ---
 
@@ -33,7 +33,7 @@ toc: true
 
 Creative coding platforms represent a genre of software that facilitates users in exploring and manifesting their creative inclinations through programming endeavors. Serving as an intermediary between coding practices and artistic expression, these platforms offer simplified coding syntaxes and user-friendly interface libraries.
 
-The focal point of our work lies in the development of a software infrastructure based on a client-server architecture to allow the remote control of a low-cost educational robot such as the Poppy Ergo Jr. The client component is written in C++, featuring bindings to fit diverse platforms such as Pure Data, Processing, P5.js, or Python. The server component, implemented in Python, enables both prototyping and experimentation for users with varying degrees of experience in software programming.
+The focal point of our work <d-cite key="caravati_interfacing_2024"></d-cite> lies in the development of a software infrastructure based on a client-server architecture to allow the remote control of a low-cost educational robot such as the Poppy Ergo Jr. The client component is written in C++, featuring bindings to fit diverse platforms such as Pure Data, Processing, P5.js, or Python. The server component, implemented in Python, enables both prototyping and experimentation for users with varying degrees of experience in software programming.
 
 In our design, we opted for the use of the Open Sound Control (OSC) protocol in tandem with UDP, and Websockets in tandem with TCP. This choice allows real-time communication between client and server, as opposed to more conventional protocols like HTTP. While considering alternatives such as WebRTC, we found its implementation complexity and reliance on third-party servers for peer-to-peer connectivity to complexify the process too much.
 

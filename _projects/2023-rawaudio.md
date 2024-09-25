@@ -3,7 +3,7 @@ layout: distill
 title: Raw Audio VAE
 description: Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures
 img: assets/img/publication_preview/smc-2023-network.jpg
-importance: 1
+importance:
 category: Audio Synthesis
 related_publications: true
 date: 2020-10-20
@@ -32,7 +32,7 @@ The research in Deep Learning applications in sound and music computing have gat
 ## Architecture
 
 <div>
-    {% include figure.liquid loading="eager" path="assets/img/smc-2023-network.png" title="The Deep Learning architecture in Raw Music From Free Movements" %}
+    {% include figure.liquid loading="eager" path="assets/img/publication_preview/smc-2023-network.jpg" title="The Deep Learning architecture in Raw Music From Free Movements" %}
 </div>
 <div class="caption">
     The Deep Learning architecture in Raw Audio VAE.
@@ -68,13 +68,13 @@ This work was partially supported by the Wallenberg AI, Autonomous Systems and S
 <div>
   <div class="row">
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.liquid loading="eager" path="assets/img/logos/wasp-hs.png" title="wasp-hs logo" %}
+          {% include figure.liquid loading="eager" path="assets/img/logos/wasphs.png" title="wasp-hs logo" %}
       </div>
       <div class="col-sm mt-3 mt-md-0">
           {% include figure.liquid loading="eager" path="assets/img/logos/snf.png" title="Swiss National Science Foundation logo" %}
       </div>
       <div class="col-sm mt-3 mt-md-0">
-          {% include figure.liquid loading="eager" path="assets/img/logos/cca.png" title="Canada Council for the Arts" %}
+          {% include figure.liquid loading="eager" path="assets/img/logos/cca.jpg" title="Canada Council for the Arts" %}
       </div>
   </div>
 </div>

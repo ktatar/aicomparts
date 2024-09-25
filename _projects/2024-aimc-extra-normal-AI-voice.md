@@ -2,7 +2,7 @@
 layout: distill
 title: Sounding out extra-normal AI voice
 description: Non-normative musical engagements with normative AI voice and speech technologies, at AIMC 2024
-importance: 4
+importance: 
 category: Audio Synthesis
 related_publications: true
 date: 2024-05-30
