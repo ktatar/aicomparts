@@ -3,7 +3,6 @@ layout: distill
 title: Caring Trouble Research Methodology
 description: A methodology for analyzing the societal impact of AI Artworks
 img: assets/img/publication_preview/mofcc-pick.png
-importance: 3
 category: AI and Society
 related_publications: true
 date: 2023-05-30

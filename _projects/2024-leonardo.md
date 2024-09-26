@@ -3,7 +3,6 @@ layout: distill
 title: A Shift in Artistic Practices through Artificial Intelligence
 description: An overview of how new AI tech challenges artistic practices
 img: 
-importance: 1
 category: AI and Society
 related_publications: true
 date: 2024-06-01

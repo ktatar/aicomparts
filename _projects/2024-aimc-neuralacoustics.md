@@ -3,7 +3,6 @@ layout: distill
 title: Neuralacoustics
 description: A Deep Learning Framework For Musical Acoustics Simulations
 img: assets/img/2024-aimc-neuralacoustics.jpg
-importance: 
 category: Audio Synthesis
 related_publications: true
 date: 2024-09-09

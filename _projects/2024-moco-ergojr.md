@@ -3,7 +3,6 @@ layout: distill
 title: Interfacing ErgoJr with Creative Coding Platforms
 description: at ACM Movement Computing Conference 2024
 img: assets/img/ergojr.jpg
-importance: 1
 category: Movement Computing
 related_publications: true
 date: 2024-05-30
