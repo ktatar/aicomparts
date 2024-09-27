@@ -53,7 +53,7 @@ The sonification dataset contains the same pose sequences as the improvisation d
 ## Resources
 
 ### Code
-<i class="fa-brands fa-github"></i> <a>https://kivanctatar.com/%20//github.com/ktatar/rawaudiovae</a>
+<i class="fa-brands fa-github"></i> <a>https://github.com/ktatar/rawaudiovae</a>
 
 ### Artworks
 

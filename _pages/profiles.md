@@ -14,7 +14,7 @@ profiles:
     content: /_profiles/about_kivanc_tatar.md # Make sure name matches your file
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Assistant Professor</p>
+      <p>Assistant Professor, Group Leader</p>
       <p>5463 EDIT Building</p>
       <p>Chalmers University of Technology</p>
       <p>Göteborg, Sweden</p>
