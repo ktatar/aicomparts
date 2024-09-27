@@ -20,7 +20,7 @@ authors:
 bibliography: aimc24_sounding.bib
 toc: false
 ---
-This paper<d-cite key="cotton_sounding_2024"></d-cite> delves into SpeechBrain, OpenAI and CoquiTTS voice and speech models within a research-through-design inspired, exploratory research engagement with pre-trained speech synthesis models to find their musical affordances in an experimental vocal practice.
+This paper<d-cite key="cotton_sounding_2024"></d-cite> delves into SpeechBrain<d-cite key="speechbrain"></d-cite>, OpenAI<d-cite key="radford"></d-cite> and CoquiTTS<d-cite key="erenCoquiTTS2021"></d-cite> voice and speech models within a research-through-design inspired, exploratory research engagement with pre-trained speech synthesis models to find their musical affordances in an experimental vocal practice.
 
 This paper<d-cite key="cotton_sounding_2024"></d-cite> discusses the subversion of the normative function of speech recognition and speech synthesis models to provoke nonsensical AI-mediation of human vocality. Emerging from a research-through-design inspired proceess, we uncover the generative potential of non-normative usage of normative AI voice and speech models and contribute with insights about the affordances of Research-through-Design to inform artistic working processes with AI models. How do AI-mediations reform our understandings of human vocality? How can artistic perspectives and practice guide the uncovering of knowledge when working with technology?
 
