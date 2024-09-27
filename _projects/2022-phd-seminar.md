@@ -3,7 +3,6 @@ layout: distill
 title: The PhD seminar 2022
 description: in Interdisciplinary Research in Human-Computer Interaction 
 img:
-importance: 2
 category: Events
 related_publications: false
 date: 2022-05-23

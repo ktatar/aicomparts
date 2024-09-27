@@ -2,7 +2,6 @@
 layout: distill
 title: Singing for the Missing
 description: A position paper for bringing Body back to AI Voice and Speech Technologies at MOCO 24
-importance: 3
 category: AI and Society
 related_publications: true
 date: 2024-05-30
@@ -28,7 +27,7 @@ The ever-evolving capabilities of AI technologies to generate and synthesise voi
 
 This approach is informed by interdisciplinary perspectives from science and technology studies, philosophy of technology, critical technology studies in feminism, AI and machine learning, sound studies, and musical practices. From this interdisciplinary perspective we probe *how* the Body is made invisible by connecting with concepts from sound studies and electroacoustic music compositional theory and practice.
 
-Informed with this interdisciplinary perspective, we propose a series of recommendations for how to *take the Body back* when engaging with AI speech and voice technologies based upon similar progress in adjacent media fields. 
+Informed with this interdisciplinary perspective, we propose <d-cite key="cotton_singing_2024"></d-cite> a series of recommendations for how to *take the Body back* when engaging with AI speech and voice technologies based upon similar progress in adjacent media fields.
 
 The paper is now accessible via the following link: 
 <https://dl.acm.org/doi/10.1145/3658852.3659065>
