@@ -75,7 +75,9 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          pip install --upgrade jupyter
+          python3 -m venv .venv
+          source .venv/bin/activate
+          python3 -m pip install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build --lsi
       - name: Purge unused CSS 🧹
