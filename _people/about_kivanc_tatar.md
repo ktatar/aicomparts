@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Kıvanç Tatar
-description: Faculty
+description: Assistant Professor, Group Leader
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
 importance: 
 category: Current
@@ -9,6 +9,11 @@ date: 2021-10-01
 featured: true
 
 ---
+
+<div class="fake-img l-body">
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kivanc_tatar.jpg" title="Priscilla Tissot" %}
+</div>
+
 
 ## Bio
 
@@ -18,4 +23,4 @@ He is currently an Assistant Professor in Interactive AI at Chalmers University 
 
 ## Personal Page
 
-https://www.kivanctatar.com/
+<https://www.kivanctatar.com/>

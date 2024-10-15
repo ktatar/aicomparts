@@ -7,8 +7,11 @@ importance:
 category: Current
 date: 2024-01-01
 featured: true
-
 ---
+
+<div class="fake-img l-body">
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_hugh_liu.jpg" title="Hugh Xuechen Liu" %}
+</div>
 
 ## Bio
 
@@ -16,6 +19,6 @@ Dr. Hugh Xuechen Liu is an interdisciplinary researcher interested in how emergi
 
 Besides them, Hugh is also interested in other emerging technology including blockchain, augmented reality and science visualization.
 
-[Personal Page](https://hughxuechen.github.io/)
+Personal Page: <https://hughxuechen.github.io/>
 
 #Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization
