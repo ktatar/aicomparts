@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: a Research Group @ <a href="https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/"> Division of Data Science and AI </a>, <a href="https://www.chalmers.se"> Chalmers University of Technology </a>
+subtitle: a Research Group @ <a href="https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/"> Division of Data Science and AI </a>, <a href="https://www.chalmers.se"> Chalmers University of Technology</a> in <i class="fa-solid fa-cloud-rain"></i> Gothenburg <i class="fa-solid fa-rainbow"></i> , Sweden. 
 
 profile:
   # align: right

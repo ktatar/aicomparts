@@ -3,7 +3,6 @@ layout: distill
 title: Raw Audio VAE
 description: Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures
 img: assets/img/publication_preview/smc-2023-network.jpg
-importance:
 category: Audio Synthesis
 related_publications: true
 date: 2020-10-20
@@ -54,7 +53,7 @@ The sonification dataset contains the same pose sequences as the improvisation d
 ## Resources
 
 ### Code
-<i class="fa-brands fa-github"></i> <a>https://kivanctatar.com/%20//github.com/ktatar/rawaudiovae</a>
+<i class="fa-brands fa-github"></i> <a>https://github.com/ktatar/rawaudiovae</a>
 
 ### Artworks
 

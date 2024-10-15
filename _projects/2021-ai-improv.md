@@ -3,7 +3,6 @@ layout: distill
 title: Pre-Conference - AI, Music and Improvisation
 description: Improvisation, Ecology and Digital Technology
 img: assets/img/2021-ai-improv.jpg
-importance: 3
 category: Events
 related_publications: false
 date: 2021-10-14
