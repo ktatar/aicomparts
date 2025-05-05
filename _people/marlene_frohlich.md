@@ -11,7 +11,7 @@ featured: true
 ---
 
 <div class="fake-img l-body">
-{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_marlene_frohlich.jpg" title="Marlene Fröhlich" %}
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_marlene_frohlich.jpeg" title="Marlene Fröhlich" %}
 </div>
 
 ## Bio
