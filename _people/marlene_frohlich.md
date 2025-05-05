@@ -4,7 +4,7 @@ title: Marlene Fröhlich
 description: Masters Student
 img: assets/img/people/prof_pic_marlene_frohlich.jpeg
 importance: 
-category: Current
+category: Alumni
 date: 2024-05-05
 featured: true
 
