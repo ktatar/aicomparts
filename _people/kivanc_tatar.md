@@ -5,7 +5,7 @@ description: Assistant Professor, Group Leader
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
 importance: 
 category: Current
-date: 2021-10-01
+date:
 featured: true
 
 ---
