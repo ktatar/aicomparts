@@ -4,7 +4,7 @@ title: Gritta Joshy
 description: Masters Student
 img: assets/img/people/prof_pic_gritta_joshy.jpg
 importance: 
-category: Current
+category: Alumni
 date: 2024-12-01
 featured: true
 
@@ -16,4 +16,4 @@ featured: true
 
 ## Bio
 
-Gritta Joshy is a final year Master's student in Applied Data Science at University of Gothenburg. Her research focuses on curriculum learning in deep generative modeling for Western classical music, as part of her thesis. She is particularly interested in the intersection of AI and creative domains, exploring how machine learning can enhance music generation.
+Gritta Joshy was a Master's student in Applied Data Science at University of Gothenburg. Her research focuses on curriculum learning in deep generative modeling for Western classical music, as part of her thesis. She is particularly interested in the intersection of AI and creative domains, exploring how machine learning can enhance music generation.

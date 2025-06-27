@@ -18,7 +18,7 @@ horizontal: true
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.people | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "date" %}
+  {% assign sorted_projects = categorized_projects | sort: "date" | reverse %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
