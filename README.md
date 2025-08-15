@@ -8,3 +8,7 @@ The repo for the website <https://aicomparts.com>. The repo is forked from <http
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+
+## Acknowledgements
+
+Much thanks to Xuechen (Hugh) Liu for setting up this website framework.
