@@ -3,7 +3,7 @@ layout: distill
 title: Gritta Joshy
 description: Masters Student
 img: assets/img/people/prof_pic_gritta_joshy.jpg
-importance: 
+importance: 4
 category: Alumni
 date: 2024-12-01
 featured: true

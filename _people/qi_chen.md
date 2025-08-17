@@ -3,7 +3,7 @@ layout: distill
 title: Qi Chen
 description: Masters Student
 img: assets/img/people/prof_pic_qi_chen.jpg
-importance: 
+importance: 3
 category: Alumni
 date: 2024-12-01
 featured: true

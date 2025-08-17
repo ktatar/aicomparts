@@ -3,7 +3,7 @@ layout: distill
 title: İpek Korkmaz
 description: Masters Student
 img: assets/img/people/prof_pic_ipek_korkmaz.jpg
-importance: 
+importance: 5
 category: Alumni
 date: 2025-08-15
 featured: true
