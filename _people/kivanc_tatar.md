@@ -11,7 +11,7 @@ featured: true
 ---
 
 <div class="fake-img l-body">
-{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kivanc_tatar.jpg" title="Priscilla Tissot" %}
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kivanc_tatar.jpg" title="Kıvanç Tatar" %}
 </div>
 
 
