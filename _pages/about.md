@@ -9,10 +9,21 @@ nav_order: 1
 
 AI in Computational Arts, Music, and Games is a research group at [Data Science and AI division](https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/) at the [Computer Science and Engineering department](https://www.chalmers.se/en/departments/cse/) at [Chalmers University of Technology](https://www.chalmers.se). Our research explores the novel aesthetics and affordances of Machine Learning (ML) and Artificial Intelligence (AI) within artistic applications.
 
-We conduct research into+with+through algorithmic approaches such as deep generative models, supervised, unsupervised, and reinforcement learning, evolutionary approaches, multi-agent systems, and natural language processing. The artistic applications include musical and audiovisual performances, interactive installations, game art, augmented and virtual reality, video art, art with robotics, and bio-art. Artistic concepts and specific applications guide our technological and algorithmic choices, rather than independent disciplinary silos. We position this interdisciplinary approach under an encompassing term, Computational Arts.
+Our research encompasses AI and ML approaches such as deep generative models, supervised,
+unsupervised, and reinforcement learning, evolutionary approaches, multi-agent systems, and
+natural language processing within creative domains. These domains include multimedia applications such as music and sound art, video games, and interactive arts. In our research, the specifics of domain, problem, task, or real-world context guide our technological and algorithmic choices, rather than adhering to independent disciplinary silos. We position this interdisciplinary approach under the encompassing term, computational arts.
 
-Conventional Machine Learning and Artificial Intelligence emphasize gestalt–which is the end-product–and optimization while addressing questions such as: which architecture performs better or faster? How do we generate high-quality content such as image/video/audio/music? While these questions and gestalt are relevant with their significant contributions to society as the matters of fact, investigations into the AI technology creation processes, actors, and stakeholders can benefit societal discourses towards matters of concerns. Artistic realms provide opportunities to investigate AI technology both as their technology facts of new artistic opportunities in greater autonomy, and as their societal and cultural matters of concern.
-The perspectives from third-wave feminism combined with methodologies from Science Technology Studies and philosophy of technology can create bridges that connect matters of facts such as accuracy, efficiency, optimization, reliability, and explainability; to matters of concerns such as ethics, inclusivity, sustainability, accessibility, and privacy. A better future with technologies of greater autonomy, can only be achieved with interdisciplinary perspectives. With artistic imagination in technology-making, informed by care-fully troubling processes, we pursue novel interdisciplinary research in artistic applications of Machine Learning and AI.
+AI in Computational Arts, Music, and Games (AI-CompArts) contributes to the CSE department in a broader context with a unique interdisciplinary research and education at the intersection of creative domains and Artificial Intelligence. Computational Arts is an interdisciplinary field that merges principles and techniques from computer science, artificial intelligence, and digital media to create, analyze, and interact with multimedia works. The discipline involves the use of algorithms, software, and hardware to generate, manipulate, and present multimedia content in various forms, including visual art, music, sound, and multimedia installations. This field explores the novel affordances of computational methods, such as deep generative models (also referred to as generative AI), to push the boundaries of conventional art forms and create innovative interactive technology.
+
+Conventional machine learning and artificial intelligence emphasize the end-product, or
+gestalt, and optimization, addressing questions such as: which architecture performs better
+or faster? How do we generate high-quality content such as images, videos, audio, or music?
+While these questions and their outcomes are relevant and significant contributions, investi-
+gations into AI technology processes, actors, stakeholders, diversity, inclusion, representation,
+and sustainability can further benefit societal discourses. To achieve this, we employ a mix
+of methods that combine quantitative analysis of datasets, models, algorithms, and content;
+with qualitative perspectives from social sciences and humanities, thereby connecting scientific
+knowledge to its societal impact.
 
 ## Acknowledgements
 
