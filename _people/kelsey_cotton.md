@@ -3,7 +3,7 @@ layout: distill
 title: Kelsey Cotton
 description: PhD Student
 img: assets/img/people/prof_pic_kelsey_cotton.jpg
-importance: 
+importance: 1
 category: Current
 date: 2022-01-01
 featured: true

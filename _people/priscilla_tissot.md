@@ -3,7 +3,7 @@ layout: distill
 title: Priscilla Tissot
 description: Masters Student Intern
 img: assets/img/people/prof_pic_priscilla_tissot.jpg
-importance: 
+importance: 1
 category: Alumni
 date: 2024-06-01
 featured: true

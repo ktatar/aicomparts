@@ -3,7 +3,7 @@ layout: distill
 title: Hugh Xuechen Liu
 description: Post-doctoral Fellow
 img: assets/img/people/prof_pic_hugh_liu.jpg
-importance: 
+importance: 2
 category: Current
 date: 2024-01-01
 featured: true

@@ -3,7 +3,7 @@ layout: distill
 title: Kıvanç Tatar
 description: Assistant Professor, Group Leader
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
-importance: 
+importance: 100
 category: Current
 date: 2021-10-01
 featured: true
@@ -11,7 +11,7 @@ featured: true
 ---
 
 <div class="fake-img l-body">
-{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kivanc_tatar.jpg" title="Priscilla Tissot" %}
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kivanc_tatar.jpg" title="Kıvanç Tatar" %}
 </div>
 
 
