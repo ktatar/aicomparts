@@ -22,7 +22,7 @@ While these questions and their outcomes are relevant and significant contributi
 gations into AI technology processes, actors, stakeholders, diversity, inclusion, representation,
 and sustainability can further benefit societal discourses. To achieve this, we employ a mix
 of methods that combine quantitative analysis of datasets, models, algorithms, and content;
-with qualitative perspectives from social sciences and humanities, thereby connecting scientific
+with qualitative perspectives from humanities and social science, thereby connecting scientific
 knowledge to its societal impact.
 
 ## Acknowledgements
