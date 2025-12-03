@@ -49,6 +49,8 @@ Location - Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hulti
 | 14:30 - 15:30 | **Panel Discussion** |
 | 16:00 - 16:30 | **Artwork Performance 1** (TBD) |
 | 16:30 - 17:00 | **Artwork Performance 2** (TBD) |
+
+
 ---
 
 ## Presenters
