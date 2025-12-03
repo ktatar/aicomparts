@@ -23,25 +23,35 @@ toc: false
 
 Generative AI technologies are transforming cultural production, creative practices, and societal narratives at an unprecedented scale. While these systems offer new opportunities for democratizing access to cultural resources and enabling innovative forms of expression, they also raise critical concerns around bias, representation, sustainability, and ethics. This event, part of the **AI Futures of Culture and Memory** WASP-HS research cluster and funded by the VR networking project The Culture Code: Developing Deep Sustainable AI, brings together scholars, practitioners, and artists to examine the societal impact of deep generative models.
 
-The program will feature **research seminars, expert panels, and artistic performances**, creating a unique space for interdisciplinary dialogue and creative exploration. Topics include synthetic data, cultural bias, and representational politics, alongside reflections on how generative AI reshapes notions of authorship, creativity, and historical consciousness. The event aims to foster collaboration toward designing inclusive and ecologically responsible AI systems that support sustainable cultural futures. The event aims to foster collaboration toward designing inclusive and ecologically responsible AI systems that support sustainable cultural futures.
+The program will feature **research seminars, expert panels, and artistic performances**, creating a unique space for interdisciplinary dialogue and creative exploration. Topics include synthetic data, cultural bias, and representational politics, alongside reflections on how generative AI reshapes notions of authorship, creativity, and historical consciousness. The event aims to foster collaboration toward designing inclusive and ecologically responsible AI systems that support sustainable cultural futures.
 
 ---
 
-## Organizers
 
-### Kıvanç Tatar
-Assistant Professor in Interactive AI, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology. 
+## Tentative Program
 
-> Bio: Kıvanç Tatar is leading AI in Computational Arts, Music, and Games research group and one of the co-leaders of WASP-HS research cluster AI Futures of Culture and Memory. He is a researcher and artist-technologist, working in the intersection of machine learning, artificial intelligence, music and multimedia.
+### February 13th
 
-### Elena Malakhatka
-Project Manager at Chalmers Next Labs
+Location - Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hultins plats 5
 
-> Bio: Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Building Interaction field while directing large-scale festivals and cultural events in Sweden. She recently concluded her post-doctoral fellowship at Chalmers University of Technology at the School of Architecture and Civil Engineering. Currently, she works at Chalmers Next Labs with Urban Analytics and Research & Innovation.
-
+| Time | Activity |
+|------|----------|
+| 08:45 - 09:00 | **Fika** |
+| 09:00 - 09:15 | **Introductions** |
+| 09:15 - 09:45 | **Coppélie Cocq** |
+| 09:45 - 10:30 | **Anna Foka** |
+| 10:30 - 11:00 | **Fika** |
+| 11:00 - 11:45 | **Andre Holzapfel** |
+| 11:45 - 12:30 | **Lunch** |
+| 12:30 - 13:15 | **Erica Johnson** |
+| 13:15 - 14:00 | **Francis Lee** |
+| 14:00 - 14:30 | **Fika**|
+| 14:30 - 15:30 | **Panel Discussion** |
+| 16:00 - 16:30 | **Artwork Performance 1** (TBD) |
+| 16:30 - 17:00 | **Artwork Performance 2** (TBD) |
 ---
 
-## Confirmed Presenters
+## Presenters
 
 ### Erica Johnson
 Professor, Deputy head of [Department of Thematic Studies (TEMA)](https://liu.se/en/organisation/liu/tema), [Linköping University](https://liu.se/en)
@@ -75,29 +85,22 @@ Associate Professor of Media Technology with specialization in Sound and Music C
 >Bio: My research focuses on the intersection between music and technology, for instance, by using computational analyses in studies of music corpora or by investigating the development of technology for creative purposes. I have contributed to the computational analysis of rhythm in the field of Music Information Retrieval, and have focused my ethnographic work on music and dance in Crete, Greece. My multidisciplinary background helps me to investigate the potential of combining quantitative, computational methods with qualitative, ethnographic methods in music research, an investigation that I like to refer to as Computational Ethnomusicology. 
 
 
+
 ---
 
-## Tentative Program
+## Organizers
 
-### February 13th
+### Kıvanç Tatar
+Assistant Professor in Interactive AI, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology. 
 
-Location - Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hultins plats 5
+> Bio: Kıvanç Tatar is leading AI in Computational Arts, Music, and Games research group and one of the co-leaders of WASP-HS research cluster AI Futures of Culture and Memory. He is a researcher and artist-technologist, working in the intersection of machine learning, artificial intelligence, music and multimedia.
 
-| Time | Activity |
-|------|----------|
-| 08:45 - 09:00 | **Fika** |
-| 09:00 - 09:15 | **Introductions** |
-| 09:15 - 09:45 | **Coppélie Cocq** |
-| 09:45 - 10:30 | **Anna Foka** |
-| 10:30 - 11:00 | **Fika** |
-| 11:00 - 11:45 | **Andre Holzapfel** |
-| 11:45 - 12:30 | **Lunch** |
-| 12:30 - 13:15 | **Erica Johnson** |
-| 13:15 - 14:00 | **Francis Lee** |
-| 14:00 - 14:30 | **Fika**|
-| 14:30 - 15:30 | **Panel Discussion** |
-| 16:00 - 16:30 | **Artwork Performance 1** (TBD) |
-| 16:30 - 17:00 | **Artwork Performance 2** (TBD) |
+### Elena Malakhatka
+Project Manager at Chalmers Next Labs
+
+> Bio: Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Building Interaction field while directing large-scale festivals and cultural events in Sweden. She recently concluded her post-doctoral fellowship at Chalmers University of Technology at the School of Architecture and Civil Engineering. Currently, she works at Chalmers Next Labs with Urban Analytics and Research & Innovation.
+
+
 
 ---
 
