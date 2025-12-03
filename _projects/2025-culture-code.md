@@ -5,7 +5,7 @@ description: Generative AI, Data and Societal Futures
 img:
 category: Events
 related_publications: false
-date: 2026-02-13
+date: 2025-12-02
 featured: true
 toc: false
 ---
