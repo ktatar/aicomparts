@@ -14,7 +14,7 @@ toc: false
 
 ## Event Details
 
-**Date:** February 13th, 2026 (Friday)  
+**"Event Date:** February 13th, 2026 (Friday)  
 **Event Type:** Research Seminar, Panel Discussion & Artistic Performance
 
 ---
@@ -47,7 +47,7 @@ Location - Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hulti
 | 13:15 - 14:00 | **Francis Lee** |
 | 14:00 - 14:30 | **Fika**|
 | 14:30 - 15:30 | **Panel Discussion** |
-| 16:00 - 16:30 | **Artwork Performance 1** (TBD) |
+| 16:00 - 16:30 | **auto_impulse - Exposing the Bias in Artificial Intelligence** |
 | 16:30 - 17:00 | **Artwork Performance 2** (TBD) |
 
 
