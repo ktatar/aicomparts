@@ -14,8 +14,9 @@ toc: false
 
 ## Event Details
 
-**Event Date:** February 13th, 2026 (Friday)  
+**Event Date:** February 13th, 2026 (Friday); 08:45 - 18:00  
 **Event Type:** Research Seminar, Panel Discussion & Artistic Performance
+**Location:** Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hultins plats 5
 **Registration Link:** <https://forms.cloud.microsoft/e/X4ufQLyTnQ>
 ---
 
