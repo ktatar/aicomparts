@@ -20,6 +20,8 @@ toc: false
 
 **Registration Link:** <https://forms.cloud.microsoft/e/X4ufQLyTnQ>
 
+*For questions, please contact Kıvanç Tatar: [tatar@chalmers.se](mailto:tatar@chalmers.se).*
+
 ---
 
 ## Abstract
@@ -119,10 +121,9 @@ Project Manager at Chalmers Next Labs
 
 <div class="fake-img l-gutter">
 {% include figure.liquid loading="eager" path="assets/img/people/prof_pic_changheon_han.jpg" title="Changheon Han" %}
-</div>
+
 
 Changheon Han is an AI researcher and creator working at the intersection of music and artificial intelligence. He earned his master’s degree in Artificial Intelligence from Hanyang University and has conducted research at institutions including Sony Europe and Singapore Management University, focusing on Music Information Retrieval, text-conditioned music source separation, generative models, and representation learning.
+</div>
 
----
-
-*For questions, please contact Kıvanç Tatar: [tatar@chalmers.se](mailto:tatar@chalmers.se).*
+## Acknowledgement
