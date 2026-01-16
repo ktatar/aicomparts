@@ -16,7 +16,7 @@ toc: false
 
 **Event Date:** February 13th, 2026 (Friday); 08:45 - 18:00  
 
-**Location:** Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hultins plats 5
+**Location:** Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 5
 
 **Registration Link:** <https://forms.cloud.microsoft/e/X4ufQLyTnQ>
 
@@ -37,7 +37,7 @@ The program will feature **research seminars, expert panels, and artistic perfor
 
 ### February 13th
 
-Location - Chalmers Main Campus Johannerberg - A Working Lab Studio - Sven Hultins plats 5
+Location - Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 5
 
 | Time | Activity |
 |------|----------|
