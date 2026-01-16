@@ -14,9 +14,9 @@ toc: false
 
 ## Event Details
 
-**"Event Date:** February 13th, 2026 (Friday)  
+**Event Date:** February 13th, 2026 (Friday)  
 **Event Type:** Research Seminar, Panel Discussion & Artistic Performance
-
+**Registration Link:** <https://forms.cloud.microsoft/e/X4ufQLyTnQ>
 ---
 
 ## Abstract
@@ -92,17 +92,25 @@ Associate Professor of Media Technology with specialization in Sound and Music C
 
 ## Organizers
 
-### Kıvanç Tatar
+### Leaders
+
+#### Kıvanç Tatar
 Assistant Professor in Interactive AI, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology. 
 
 > Bio: Kıvanç Tatar is leading AI in Computational Arts, Music, and Games research group and one of the co-leaders of WASP-HS research cluster AI Futures of Culture and Memory. He is a researcher and artist-technologist, working in the intersection of machine learning, artificial intelligence, music and multimedia.
 
-### Elena Malakhatka
+#### Elena Malakhatka
 Project Manager at Chalmers Next Labs
 
 > Bio: Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Building Interaction field while directing large-scale festivals and cultural events in Sweden. She recently concluded her post-doctoral fellowship at Chalmers University of Technology at the School of Architecture and Civil Engineering. Currently, she works at Chalmers Next Labs with Urban Analytics and Research & Innovation.
 
+### Team
 
+#### Xuechen Liu
+
+#### Kelsey Cotton
+
+#### Changheon Han
 
 ---
 
