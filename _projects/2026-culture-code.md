@@ -122,11 +122,17 @@ Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Bu
 
 #### Xuechen Liu
 
+Post-Doctoral Fellow, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
+
 #### Kelsey Cotton
 
+Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
 
-#### Changheon Han
+
+#### [Changheon Han](https://aicomparts.com/people/changheon_han/)
+
+Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
 Changheon Han is an AI researcher and creator working at the intersection of music and artificial intelligence. He earned his master’s degree in Artificial Intelligence from Hanyang University and has conducted research at institutions including Sony Europe and Singapore Management University, focusing on Music Information Retrieval, text-conditioned music source separation, generative models, and representation learning.
 
