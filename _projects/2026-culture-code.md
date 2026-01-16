@@ -104,7 +104,8 @@ My research focuses on the intersection between music and technology, for instan
 
 ### Leaders
 
-#### Kıvanç Tatar
+#### [Kıvanç Tatar](https://aicomparts.com/people/kivanc_tatar/)
+
 Assistant Professor in Interactive AI, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology. 
 
 Kıvanç Tatar is leading AI in Computational Arts, Music, and Games research group and one of the co-leaders of WASP-HS research cluster AI Futures of Culture and Memory. He is a researcher and artist-technologist, working in the intersection of machine learning, artificial intelligence, music and multimedia.
@@ -120,11 +121,11 @@ Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Bu
 
 ### Team
 
-#### Xuechen Liu
+#### [Xuechen Liu](https://aicomparts.com/people/hugh_liu/)
 
 Post-Doctoral Fellow, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
-#### Kelsey Cotton
+#### [Kelsey Cotton]()
 
 Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
