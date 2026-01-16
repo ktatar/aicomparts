@@ -96,8 +96,6 @@ Associate Professor of Media Technology with specialization in Sound and Music C
 
 My research focuses on the intersection between music and technology, for instance, by using computational analyses in studies of music corpora or by investigating the development of technology for creative purposes. I have contributed to the computational analysis of rhythm in the field of Music Information Retrieval, and have focused my ethnographic work on music and dance in Crete, Greece. My multidisciplinary background helps me to investigate the potential of combining quantitative, computational methods with qualitative, ethnographic methods in music research, an investigation that I like to refer to as Computational Ethnomusicology. 
 
-
-
 ---
 
 ## Organizers
