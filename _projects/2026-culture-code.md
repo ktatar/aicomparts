@@ -119,11 +119,11 @@ Project Manager at Chalmers Next Labs
 
 #### Changheon Han
 
+Changheon Han is an AI researcher and creator working at the intersection of music and artificial intelligence. He earned his master’s degree in Artificial Intelligence from Hanyang University and has conducted research at institutions including Sony Europe and Singapore Management University, focusing on Music Information Retrieval, text-conditioned music source separation, generative models, and representation learning.
+
 <div class="fake-img l-gutter">
 {% include figure.liquid loading="eager" path="assets/img/people/prof_pic_changheon_han.jpg" title="Changheon Han" %}
 
-
-Changheon Han is an AI researcher and creator working at the intersection of music and artificial intelligence. He earned his master’s degree in Artificial Intelligence from Hanyang University and has conducted research at institutions including Sony Europe and Singapore Management University, focusing on Music Information Retrieval, text-conditioned music source separation, generative models, and representation learning.
 </div>
 
 ## Acknowledgement
