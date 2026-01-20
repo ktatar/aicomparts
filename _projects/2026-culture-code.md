@@ -117,16 +117,27 @@ Project Manager at Chalmers Next Labs
 
 Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Building Interaction field while directing large-scale festivals and cultural events in Sweden. She recently concluded her post-doctoral fellowship at Chalmers University of Technology at the School of Architecture and Civil Engineering. Currently, she works at Chalmers Next Labs with Urban Analytics and Research & Innovation.
 
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_elena_malakhatka.jpg" title="Elena Malakhatka" %}</p>
+</div>
+
 ### Team
 
 #### [Xuechen Liu](https://aicomparts.com/people/hugh_liu/)
 
 Post-Doctoral Fellow, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_hugh_liu.jpg" title="Hugh Liu" %}</p>
+</div>
+
 #### [Kelsey Cotton]()
 
 Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kelsey_cotton.jpg" title="Kelsey Cotton" %}</p>
+</div>
 
 
 #### [Changheon Han](https://aicomparts.com/people/changheon_han/)
