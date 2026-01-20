@@ -66,6 +66,11 @@ Professor, Deputy head of [Department of Thematic Studies (TEMA)](https://liu.se
 My research explores how the world becomes data. With a background in Science & Technology Studies and medical humanities, I’m looking at the nexus of ontologies, epistemologies and AI. What happens when the data that represents the world meets AI? 
 https://liu.se/en/employee/erijo72
 
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_ericka_johnson.jpg" title="Erica Johnson" %}</p>
+</div>
+
+
 ### Francis Lee
 
 Associate Professor, Södertörn University & Chalmers University of Technology
@@ -74,11 +79,20 @@ Francis Lee is an Associate Professor at Södertörn University, Media Technolog
 
 Lee's research is grounded in the tradition of Science and Technology Studies (STS), focusing on how technologies shape how we classify, value, and understand society. Drawing on STS perspectives that emphasize the co-production of technology and the social order, his work investigates how technologies become intertwined with knowledge production. His current projects explore how artificial intelligence and big data are reshaping biomedical research practices and knowledge production.
 
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_francis_lee.jpg" title="Francis Lee" %}</p>
+</div>
+
 ### Anna Foka
 
 Professor, Department of Archives, Libraries, and Museums at Uppsala University 
 
 Anna Foka is Professor in Digital Humanities at the Department for [Archives, Museums and Libraries (ABM)](https://www.abm.uu.se/?languageId=1), the director of the international research cluster [AI Futures of Culture and Memory](https://futuresai.net), the founder of the [Centre for Digital Humanities and Social Sciences](https://www.uu.se/en/centre/digital-humanities-and-social-sciences), and the coordinator of [DASH: Data, Culture and Society, Critical Perspectives](https://www.dash-doctoralschool.se/). Anna is the national mentor for AI in [SKERIC](https://www.skeric.org). Her research interest revolve around critical perspectives on the nexus of technology, culture and memory. 
+
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_anna_foka.jpg" title="Anna Foka" %}</p>
+</div>
+
 
 ### Coppélie Cocq
 
@@ -90,11 +104,21 @@ I conduct research within the focus area of [digital practices](https://www.umu.
 
 I am deputy director of the [research infrastructure Huminfra](https://www.umu.se/en/research/infrastructure/huminfra/). and co-editor for the Journal JAF: A Global Quarterly.
 
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_coppelie_cocq.jpg" title="Coppélie Cocq" %}</p>
+</div>
+
+
 ### Andre Holzapfel
 
 Associate Professor of Media Technology with specialization in Sound and Music Computing, [Division of Media Technology and Interaction Design](https://www.kth.se/hct/mid/), KTH Royal Institute of Technology.
 
 My research focuses on the intersection between music and technology, for instance, by using computational analyses in studies of music corpora or by investigating the development of technology for creative purposes. I have contributed to the computational analysis of rhythm in the field of Music Information Retrieval, and have focused my ethnographic work on music and dance in Crete, Greece. My multidisciplinary background helps me to investigate the potential of combining quantitative, computational methods with qualitative, ethnographic methods in music research, an investigation that I like to refer to as Computational Ethnomusicology. 
+
+<div class="fake-img l-gutter">
+<p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_andre_holzapfel.jpg" title="Andre Holzapfel" %}</p>
+</div>
+
 
 ---
 
