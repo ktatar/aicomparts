@@ -185,3 +185,13 @@ This work was supported by the Wallenberg AI, Autonomous Systems and Software Pr
       </div>
   </div>
 </div>
+
+This work is funded by Swedish Research Council (Vetenskapsrådet) Network grant for planning future excellence clusters for groundbreaking technologies titled The Culture Code: Developing Deep Sustainable AI.
+
+<div>
+  <div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.liquid loading="eager" path="assets/img/logos/vr.png" title="vr logo" %}
+      </div>
+  </div>
+</div>
