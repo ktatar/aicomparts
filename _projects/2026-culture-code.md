@@ -174,4 +174,14 @@ Changheon Han is an AI researcher and creator working at the intersection of mus
 <p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_changheon_han.jpg" title="Changheon Han" %}</p>
 </div>
 
-## Acknowledgement
+## Acknowledgements
+
+
+This work was supported by the Wallenberg AI, Autonomous Systems and Software Program – Humanities and Society (WASP-HS) funded by the Marianne and Marcus Wallenberg Foundation and the Marcus and Amalia Wallenberg Foundation. 
+<div>
+  <div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+          {% include figure.liquid loading="eager" path="assets/img/logos/wasphs.png" title="wasp-hs logo" %}
+      </div>
+  </div>
+</div>
