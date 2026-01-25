@@ -16,8 +16,8 @@ featured: true
 
 ## Bio
 
-Changheon Han is an AI researcher and creator working at the intersection of music and artificial intelligence. He earned his master’s degree in Artificial Intelligence from Hanyang University and has conducted research at institutions including Sony Europe and Singapore Management University, focusing on Music Information Retrieval, text-conditioned music source separation, generative models, and representation learning. In parallel, he has over seven years of experience as a music producer and artist, having released five studio albums, with multiple tracks featured on Spotify Editorial Playlists and more than 800,000 streams worldwide. He is currently pursuing a PhD at Chalmers University of Technology in Sweden, where his research examines how generative music models learn representation spaces and how artistic influence can be analyzed within them.
+Changheon Han is an AI researcher and musician working at the intersection of music and artificial intelligence. He earned his master’s degree in Artificial Intelligence from Hanyang University and has conducted research at institutions including Sony Europe and Singapore Management University, focusing on Music Information Retrieval, text-conditioned music source separation, and representation learning. Alongside his research career, he has more than seven years of experience as a music producer and artist, with his work accumulating over 800,000 streams worldwide and being featured as background music in Korean television series. He is currently pursuing a PhD at Chalmers University of Technology in Sweden, where his research examines how generative music models learn representation spaces.
 
-## Contact
+## Webpage
 
-<https://www.linkedin.com/in/hch011/>
+<https://changheonhan.com>
