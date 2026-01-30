@@ -39,12 +39,12 @@ The program will feature **research seminars, expert panels, and artistic perfor
 
 Location - Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 5
 
-| Time | Activity |
-|------|----------|
+| Time | Presenter | Title |
+|------|----------|  |
 | 08:45 - 09:00 | **Fika** |
 | 09:00 - 09:15 | **Introductions** |
 | 09:15 - 09:45 | **Coppélie Cocq** |
-| 09:45 - 10:30 | **Anna Foka** |
+| 09:45 - 10:30 | **Anna Foka** | Simulating Curation with Computer Vision |
 | 10:30 - 11:00 | **Fika** |
 | 11:00 - 11:45 | **Andre Holzapfel** |
 | 11:45 - 12:30 | **Lunch** |
@@ -52,8 +52,7 @@ Location - Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultin
 | 13:15 - 14:00 | **Francis Lee** |
 | 14:00 - 14:30 | **Fika**|
 | 14:30 - 15:30 | **Panel Discussion** |
-| 16:00 - 16:30 | **auto_impulse - Exposing the Bias in Artificial Intelligence** |
-| 16:30 - 17:00 | **Artwork Performance 2** (TBD) |
+| 16:00 - 16:30 | **auto_impulse** | Exposing the Bias in Artificial Intelligence |
 
 ---
 
@@ -147,7 +146,9 @@ Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Bu
 
 ### Team
 
-#### [Xuechen Liu](https://aicomparts.com/people/hugh_liu/) - Communications and Web
+#### [Xuechen Liu](https://aicomparts.com/people/hugh_liu/) 
+
+&nbsp; Communications and Web
 
 Post-Doctoral Fellow, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
@@ -155,7 +156,9 @@ Post-Doctoral Fellow, Data Science and AI division, Computer Science and Enginee
 <p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_hugh_liu.jpg" title="Hugh Liu" %}</p>
 </div>
 
-#### [Kelsey Cotton](https://aicomparts.com/people/kelsey_cotton/) - Technical Director
+#### [Kelsey Cotton](https://aicomparts.com/people/kelsey_cotton/) 
+
+&nbsp; Technical Director
 
 Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
@@ -164,7 +167,9 @@ Ph.D. Student, Data Science and AI division, Computer Science and Engineering De
 </div>
 
 
-#### [Changheon Han](https://aicomparts.com/people/changheon_han/) - Registrations
+#### [Changheon Han](https://aicomparts.com/people/changheon_han/) 
+
+Registrations
 
 Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
