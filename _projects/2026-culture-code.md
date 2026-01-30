@@ -152,6 +152,8 @@ Elena conducted her PhD at KTH Royal Institute of Technology within the Human-Bu
 
 Post-Doctoral Fellow, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
 
+Hugh is an interdisciplinary researcher using emerging technologies to create meaningful experiences for people. Currently, Hugh's research explores game studies knowledge discovery, completion, and utilization through machine learning and artificial intelligence, with the aim of enabling explainable and accessible game design.
+
 <div class="fake-img l-gutter">
 <p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_hugh_liu.jpg" title="Hugh Liu" %}</p>
 </div>
