@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Kıvanç Tatar
-description: Assistant Professor, Group Leader
+description: Associate Professor, Group Leader
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
 importance: 100
 category: Current
