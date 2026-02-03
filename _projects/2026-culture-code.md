@@ -43,14 +43,14 @@ Location - Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultin
 | 08:45 - 09:00 | **Fika** |
 | 09:00 - 09:15 | **Introductions** |
 | 09:15 - 09:45 | **Coppélie Cocq** | Digital Transformation, Indigenous Rights: Epistemic and Data Sovereignty in Sápmi under Generative AI |
-| 09:45 - 10:30 | **Anna Foka** | Simulating Curation with Computer Vision |
-| 10:30 - 11:00 | **Fika** | 
-| 11:00 - 11:45 | **Andre Holzapfel** | Environmental impact and political ecology of music-Ai |
-| 11:45 - 12:30 | **Lunch** |
-| 12:30 - 13:15 | **Erica Johnson** | Balancing acts. Bias, representation and multiple ontologies in synthetic tabular data |
-| 13:15 - 14:00 | **Francis Lee** | Synthetic data: some questions about the reality of data |
-| 14:00 - 14:30 | **Fika**|
-| 14:30 - 15:30 | **Panel Discussion** |
+| 10:00 - 10:45 | **Anna Foka** | Simulating Curation with Computer Vision |
+| 10:45 - 11:15 | **Fika** | 
+| 11:15 - 12:00 | **Andre Holzapfel** | Environmental impact and political ecology of music-Ai |
+| 12:00 - 13:00 | **Lunch** |
+| 13:00 - 13:45 | **Erica Johnson** | Balancing acts. Bias, representation and multiple ontologies in synthetic tabular data |
+| 13:45 - 14:30 | **Francis Lee** | Synthetic data: some questions about the reality of data |
+| 14:30 - 15:00 | **Fika**|
+| 15:00 - 16:00 | **Panel Discussion** | All Speakers |
 | 16:00 - 16:45 | **auto_impulse** | [Exposing the Bias in Artificial Intelligence](https://kivanctatar.com/Exposing-the-Bias-in-AI) |
 
 ---
