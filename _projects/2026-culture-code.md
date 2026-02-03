@@ -42,7 +42,7 @@ Location - Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultin
 |------|----------|  |
 | 08:45 - 09:00 | **Fika** |
 | 09:00 - 09:15 | **Introductions** |
-| 09:15 - 09:45 | **Coppélie Cocq** | Digital Transformation, Indigenous Rights: Epistemic and Data Sovereignty in Sápmi under Generative AI |
+| 09:15 - 10:00 | **Coppélie Cocq** | Digital Transformation, Indigenous Rights: Epistemic and Data Sovereignty in Sápmi under Generative AI |
 | 10:00 - 10:45 | **Anna Foka** | Simulating Curation with Computer Vision |
 | 10:45 - 11:15 | **Fika** | 
 | 11:15 - 12:00 | **Andre Holzapfel** | Environmental impact and political ecology of music-Ai |
