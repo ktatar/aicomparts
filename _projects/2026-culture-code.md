@@ -16,13 +16,11 @@ toc: false
 
 **Event Date:** February 13th, 2026 (Friday); 08:45 - 18:00  
 
-**Location:** Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 5
-
-**Registration Link:** <https://forms.cloud.microsoft/e/X4ufQLyTnQ>
-
-*For questions, please contact Kıvanç Tatar: [tatar@chalmers.se](mailto:tatar@chalmers.se).*
+**Location:** Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 
 
 **Zoom Link:** <https://chalmers.zoom.us/j/65318775949>
+
+*For questions, please contact Kıvanç Tatar: [tatar@chalmers.se](mailto:tatar@chalmers.se).*
 
 ---
 
