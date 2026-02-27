@@ -16,9 +16,9 @@ toc: false
 
 **Event Date:** February 13th, 2026 (Friday); 08:45 - 18:00  
 
-**Location:** Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 5
+**Location:** Chalmers Main Campus Johanneberg - A Working Lab Studio - Sven Hultins plats 
 
-**Registration Link:** <https://forms.cloud.microsoft/e/X4ufQLyTnQ>
+**Zoom Link:** <https://chalmers.zoom.us/j/65318775949>
 
 *For questions, please contact Kıvanç Tatar: [tatar@chalmers.se](mailto:tatar@chalmers.se).*
 
@@ -162,6 +162,9 @@ Hugh is an interdisciplinary researcher using emerging technologies to create me
 &nbsp; Technical Director
 
 Ph.D. Student, Data Science and AI division, Computer Science and Engineering Department, Chalmers University of Technology
+
+Kelsey Cotton [<she/her>] is a vocalist-artist-mover working with experimental music, Musical Artificial Intelligence, electronic textiles, soft-robotics, and Human-Computer Interaction. She is passionate about somatic interaction, the potential for intersomatic experiences between fleshy and synthetic bodies, and first-person feminist perspectives of musical AI.
+
 
 <div class="fake-img l-gutter">
 <p>{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_kelsey_cotton.jpg" title="Kelsey Cotton" %}</p>
