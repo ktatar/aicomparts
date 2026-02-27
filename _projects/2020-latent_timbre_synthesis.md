@@ -2,7 +2,7 @@
 layout: distill
 title: Latent Timbre Synthesis
 description: Fast Deep Learning tools for experimental electronic music
-img: assets/img/lts_full_latent_space_scatter.jpg
+img: assets/img/lts_full_latent_space_scatter.png
 category: Audio Synthesis
 related_publications: true
 date: 2020-10-20
