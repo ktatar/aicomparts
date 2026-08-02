@@ -19,7 +19,7 @@ toc: true
 
 ### Description
 
-The pre-conference "AI, Music and Improvisation" is happening on October 14th and 15th 2021. The first day (14.10) will an in person cocnert event, happening at the NRW-Forum in Düsseldorf, while beeing live-streamed as well. The second day (15.10) will be an online conference event, featuring 5 lectures.
+The pre-conference "AI, Music and Improvisation" is happening on October 14th and 15th 2021. The first day (14.10) will an in person concert event, happening at the NRW-Forum in Düsseldorf, while beeing live-streamed as well. The second day (15.10) will be an online conference event, featuring 5 lectures.
 
 It is the pre-conference to the conference “Improvisation, Ecology and Digital Technology",  which happened at the NRW-Forum Düsseldorf from the 23.-25.06,2022.
 
